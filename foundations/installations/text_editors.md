@@ -133,6 +133,8 @@ code
 1. Familiarizing yourself with VSCode will allow you to save time and become more productive. By watching this [VSCode Tutorial for Beginners](https://youtu.be/ORrELERGIHs?t=103) video, you'll get an idea of all the features VSCode has to offer. Don't worry about actually coding along, just watch for the way that VSCode is used throughout the video.
 </div>
 
+2. The VSCode editor has some amazing extensions available that can be extremely useful for Web Developement. The extensions makes coding on VSCode even more easier. You can check out the video explaining all the useful extensions- https://www.youtube.com/watch?v=Z6TYGhxTFhU&pp=ygU3YmVzdCB2aXN1YWwgc3R1ZGlvIGNvZGUgZXh0ZW5zaW9ucyBmb3Igd2ViIGRldmVsb3BtZW50IA%3D%3D
+
 ### Additional resources
 
 This section contains helpful links to related content. It isn’t required, so consider it supplemental.
